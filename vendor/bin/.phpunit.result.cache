@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AccountTest::testPasswordContainSpecialCharacter":7,"AccountTest::testPasswordErrorMessage":7},"times":{"AccountTest::testPasswordContainSpecialCharacter":0.009,"AccountTest::testPasswordErrorMessage":0.008}}
